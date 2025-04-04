@@ -11,10 +11,3 @@ Sou **João Rezende** — apaixonado por tecnologia, ciência da computação e 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRezend33&layout=compact&theme=radical)
 
-## 📈 Estatísticas do GitHub:
-
-![João Rezende's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoRezend33&show_icons=true&theme=radical)
-
----
-
-[🔗 Acesse meu perfil no GitHub](https://github.com/JoaoRezend33)
