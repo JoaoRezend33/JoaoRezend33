@@ -1,19 +1,20 @@
 # Olá Mundo! 👋
 
-Sou **João Rezende** — apaixonado por tecnologia, ciência da computação e administração. Atualmente estou trabalhando em projetos com **React**, **Firebase**, **Java** e muito mais.
+Sou **João Rezende** — apaixonado por tecnologia, ciência da computação e administração. Atualmente estudo **Kotlin**, **Java**, **C** e **React**.
 
 ## 🚀 Sobre mim:
 - 👨‍💻 Programador full-stack em evolução
-- 🧠 Estudando lógica de programação em C e desenvolvimento de sistemas
-- 🧼 Empreendedor na **Total Clen** – franquia de limpeza de estofados
+- 🧠 Estudando lógica de programação e desenvolvimento de sistemas
 - 💡 Sempre inovando e pensando fora da caixa
 
-## 📊 GitHub Stats:
-
-![João Rezende's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoRezend33&show_icons=true&theme=radical)
+## 📊 Linguagens mais usadas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRezend33&layout=compact&theme=radical)
 
+## 📈 Estatísticas do GitHub:
+
+![João Rezende's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoRezend33&show_icons=true&theme=radical)
+
 ---
 
-[🔗 Acesse meu perfil](https://github.com/JoaoRezend33)
+[🔗 Acesse meu perfil no GitHub](https://github.com/JoaoRezend33)
